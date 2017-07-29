@@ -3,3 +3,14 @@ main: e\Main
 version: 1.9.0v
 api: 3.0.0
 author: pluginer_mt
+commands:
+  gm1:
+    description: Make you Gamemode 1
+  gm0:
+    description: Make you Gamemode 0
+  f:
+    description: Make you can fly
+  f2:
+    description: Make you  can't fly
+  hl:
+    description: Make your Health full  
